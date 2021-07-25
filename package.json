@@ -1,0 +1,23 @@
+{
+  "name": "portfolio1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreElliot/Portfolio1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreElliot/Portfolio1/issues"
+  },
+  "homepage": "https://github.com/AndreElliot/Portfolio1#readme",
+  "dependencies": {
+    "webpack": "^5.46.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
